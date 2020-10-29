@@ -184,6 +184,11 @@ sudo make -C /usr/ports/security/lastpass-cli all install clean
 ```
 apt-cyg install wget make cmake gcc-core gcc-g++ openssl-devel libcurl-devel libxml2-devel libiconv-devel cygutils-extra
 ```
+### Insatalling on Windows
+* Install Windows Subsystem for Linux [see details](https://docs.microsoft.com/en-us/windows/wsl/install-win10#install-windows-subsystem-for-linux)	
+* In Step 6 choouse Ubuntu
+* Launch your instance
+* Follow the installation steps of Ubuntu
 
 ## Building
 
